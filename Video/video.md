@@ -1,2 +1,4 @@
 # Add video here
-<video src="/video2713233185.mp4" width="320" height="240" controls></video>
+
+https://github.com/henrytiet/CSE110-SP24-Lab6-Template/assets/97487846/ddc76a1a-13bf-4a04-bb80-0ee9d4ea5489
+
